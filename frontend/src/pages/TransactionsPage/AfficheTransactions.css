@@ -1,0 +1,57 @@
+.Ana{
+    flex: 4;
+    margin: 0;
+    padding: 60px;
+}
+
+.newSelectform{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.newAfficheItems{
+    width: 200px;
+    display:flex ;
+    flex-direction: column;
+    margin-top: 1px;
+    margin-right: 20px;
+}
+.selectItems{
+    height: 40px;
+    border-radius: 10px;
+}
+
+.goButton{
+ width: 200px;
+ height: 40px;
+ border: none;
+ background-color: blue;
+ color: white;
+ font-weight: 700;
+ padding: 7px 10px; 
+ border-radius: 10px;
+}
+.goBTN{
+    text-align: right;
+    padding-right: 40px;
+    margin-top: 20px;
+    margin-right: 30px;
+    width: 100%;
+}
+
+
+   .ExportBTN{
+       text-align: right;
+       padding-right: 65px;
+       margin-top: 20px;
+   }
+   .ExportBotton{
+    width: 200px;
+    height: 40px;
+    border: none;
+    background-color: blue;
+    color: white;
+    font-weight: 700;
+    padding: 7px 10px; 
+    border-radius: 10px;
+   }
